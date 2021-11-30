@@ -8,20 +8,18 @@
 На каждой SMG  требуется создать нового пользователя, данные которого будут использоваться программой.
 Заходим на SMG по ssh  использую стандартную учётку
 
-********************************************
-*           Welcome to  SMG-2016           *
-********************************************
+
         
-Welcome! It is Mon Nov 29 14:59:38 GMT+6 2021
-SMG2016> sh
+* Welcome! It is Mon Nov 29 14:59:38 GMT+6 2021
+* SMG2016> sh
 
 Вводим sh чтобы попасть в шелл
 
-/home/admin # adduser OIS
+* /home/admin # adduser OIS
 Вводим adduser OIS
 
-Changing password for OIS
-New password: 
+* Changing password for OIS
+* New password: 
 
 Вводим пароль.
 Повторяем пароль.
