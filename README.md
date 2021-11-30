@@ -15,13 +15,13 @@
 
 Вводим sh чтобы попасть в шелл
 
-* /home/admin # adduser OIS
-Вводим adduser OIS
+* /home/admin # adduser user
+Вводим adduser user
 
-* Changing password for OIS
-* New password: 
+* Changing password for user
+*  New password: 
 
 Вводим пароль.
 Повторяем пароль.
-При неудачной попытке используем команду deluser OIS и повторяем. 
+При неудачной попытке используем команду deluser user и повторяем. 
 После чего надо через веб интерфейс сохранить конфигурацию во флеш, иначе при перезгрузке пользовать будет удалён.
