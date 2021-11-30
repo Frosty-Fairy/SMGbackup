@@ -16,6 +16,7 @@
 Вводим sh чтобы попасть в шелл
 
 * /home/admin # adduser user
+
 Вводим adduser user
 
 * Changing password for user
